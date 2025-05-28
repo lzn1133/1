@@ -1,0 +1,3 @@
+newmtl FaceTexture
+map_Kd Face (198).png
+disp TestSamples/examples/results\Face (198)\Face (198)_normals.png
